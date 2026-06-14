@@ -11,21 +11,6 @@ Digging deeper into **system design and distributed systems** — how large-scal
 
 ---
 
-## Things I've built
-
-### Cryptomaniac
-A crypto price prediction site that forecasts 7-day prices using an LSTM model, pulls live prices from an open API, and answers user queries through a Bag-of-Words chatbot.
-`Python · PyTorch · LSTM · Flask`
-
-### Babble — Interactive Dictionary
-20,000+ words. Voice search. Pronunciation playback. Vocabulary games. Smart suggestions for typos. Automated Google Search. Built it because dictionaries are boring and they don't have to be.
-`Python · gTTS · Selenium · JSON`
-
-### Integrated Fashion Intelligence
-Scrapes Flipkart, Myntra, and fashion blogs to detect what's trending, uses GANs to predict what's *next*, and serves personalised recommendations.
-`Python · GANs · Web Scraping`
-
----
 
 ## Tech I work with
 
