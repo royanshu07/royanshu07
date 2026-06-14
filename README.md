@@ -3,8 +3,6 @@
 I'm a software engineer who likes building things people actually use — products that feel fast, work reliably, and don't make you think twice.
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=royanshu07&theme=tokyonight&hide_border=true)
-
 ## What I'm into right now
 
 Digging deeper into **system design and distributed systems** — how large-scale systems are architected, where they break, and what the tradeoffs actually look like in practice.
