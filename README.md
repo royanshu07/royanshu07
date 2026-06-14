@@ -2,7 +2,7 @@
 
 I'm a software engineer who likes building things people actually use — products that feel fast, work reliably, and don't make you think twice.
 
-
+![Anshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royanshu07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ---
 
 ## What I'm into right now
